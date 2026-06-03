@@ -10,6 +10,9 @@ It supports:
 - Comparison of random-case and worst-case performance
 - JIT warmup to improve timing accuracy
 
+<img width="512" height="828" alt="raport" src="https://github.com/user-attachments/assets/90dabfdf-dc29-4a88-8d7e-1d17e05b2f40" />
+
+
 ## 🚀 Features
 
 - Canonical, reference implementations of 4 sorting algorithms
