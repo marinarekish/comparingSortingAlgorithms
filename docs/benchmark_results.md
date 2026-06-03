@@ -25,7 +25,8 @@ Quadratic algorithms (Selection & Insertion Sort) were skipped for arrays above 
 
 *(— means not tested for this size)*
 
-![Benchmark Chart](docs/chart.jpg)
+<img width="1707" height="1101" alt="chart" src="https://github.com/user-attachments/assets/8aff20cb-74d6-4526-aac6-c56c965e4692" />
+
 
 | Algorithm         | 1k rand | 1k worst | 10k rand | 10k worst | 20k rand | 20k worst | 50k rand | 50k worst | 100k rand | 100k worst | 200k rand | 200k worst |
 | ----------------- | ------- | -------- | -------- | --------- | -------- | --------- | -------- | --------- | --------- | ---------- | --------- | ---------- |
